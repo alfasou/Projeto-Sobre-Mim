@@ -1,2 +1,4 @@
 # Projeto "Sobre Mim"
-Projeto de Site para Treino de CSS
+<div align="center">
+  <p>Projeto de Site para Treino de CSS</p>
+</div>
